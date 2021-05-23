@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/KulakovAlexey/KAR.svg?branch=master)](https://travis-ci.org/KulakovAlexey/KAR)
+[![Build Status](https://travis-ci.com/KulakovAlexey/KAR.svg?branch=master)](https://travis-ci.com/KulakovAlexey/KAR)
 [![Coverage Status](https://coveralls.io/repos/github/KulakovAlexey/KAR/badge.svg?branch=main)](https://coveralls.io/github/seekerk/gtest?branch=main)
 [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=KulakovAlexey_KAR&metric=alert_status)](https://sonarcloud.io/dashboard?id=KulakovAlexey_KAR)
 [![Code smells](https://sonarcloud.io/api/project_badges/measure?project=KulakovAlexey_KAR&metric=code_smells)](https://sonarcloud.io/dashboard?id=KulakovAlexey_KAR)
