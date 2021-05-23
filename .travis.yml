@@ -7,7 +7,7 @@ before_install:
 addons:
     sonarcloud:
         organization: "kulakovalexey"
-    token: $SONAR_TOKEN
+    token: travis encrypt 3cd9b4557be6bbc45d2d9bcf7543c2ee6601cd4d
 
 script:
   - qmake
